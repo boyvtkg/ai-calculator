@@ -41,7 +41,7 @@ npm run dev
 ---
 
 ## 📦 Deployment
-- Deployed on Vercel: [Visit App](https://your-vercel-app.vercel.app)
+- Deployed on Vercel: [Visit App](https://ai-calculator-tau.vercel.app/)
 
 ---
 
